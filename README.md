@@ -2,7 +2,7 @@
 
 All monsters drop a heart now.
 
-Small Hearts are worth 1 heart, Medium Hearts are worth 3 herats, and Large Hearts are worth 5 hearts.
+Small Hearts are worth 1 heart, Medium Hearts are worth 3 hearts, and Large Hearts are worth 5 hearts.
 
 Castlevania II - Simon's Quest (USA).nes
 
