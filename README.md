@@ -1,6 +1,6 @@
 # Castlevania 2 Better Heart Drop Rates Hack
 
-All mosnters drop a heart now.
+All monsters drop a heart now.
 
 Small Hearts are worth 1 heart, Medium Hearts are worth 3 herats, and Large Hearts are worth 5 hearts.
 
